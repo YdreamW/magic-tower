@@ -4,3 +4,5 @@
 ![Ubuntu](https://github.com/ZSYTY/magic-tower/workflows/Ubuntu/badge.svg)
 
 Magic tower game based on Qt
+
+Final project of C++ training course of Yu Xin in ZJU. 
